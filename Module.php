@@ -14,7 +14,7 @@ class Module implements
      * Имя модуля
      *
      * @var string
-     */
+     */ 
     const MODULE_NAME = __NAMESPACE__;
     /**
      * @return array
