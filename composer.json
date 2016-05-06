@@ -22,10 +22,10 @@
     },
     "autoload": {
         "psr-4": {
-            "CustomerVendorMember\\Member\\": "module/"
+            "CustomerVendorMember\\Member\\": "src/"
         },
         "classmap": [
-            "module/"
+            "src/"
         ]
     },
     "autoload-dev": {
