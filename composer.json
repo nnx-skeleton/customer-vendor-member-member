@@ -13,6 +13,7 @@
         "nnx-skeleton-member/member": "dev-master"
     },
     "minimum-stability": "dev",
+
     "require-dev": {
         "fabpot/php-cs-fixer": "~1.11.0",
         "phpunit/phpunit": "~4.8.0",
