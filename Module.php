@@ -1,4 +1,3 @@
-
 <?php
 
 namespace CustomerVendorMember\Member;
@@ -36,4 +35,4 @@ class Module implements
     {
         return include __DIR__ . '/config/module.config.php';
     }
-} 
+}

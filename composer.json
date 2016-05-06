@@ -26,6 +26,7 @@
             "CustomerVendorMember\\Member\\": "src/"
         },
         "classmap": [
+            "./Module.php",
             "src/"
         ]
     },
