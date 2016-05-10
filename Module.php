@@ -15,6 +15,14 @@ class Module implements
      * @var string
      */ 
     const MODULE_NAME = __NAMESPACE__;
+
+    /**
+     * Имя секции в конфигах приложения, содержащая настройки модуля
+     *
+     * @var string
+     */
+    const CONFIG_KEY = 'customer-vendor-member';
+
     /**
      * @return array
      */
